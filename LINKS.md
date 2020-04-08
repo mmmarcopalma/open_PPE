@@ -24,7 +24,7 @@ a collection of open source PPEs projects
 [Operation PPE — Sabin Design Lab](https://www.sabinlab.com/operation-ppe?fbclid=IwAR2ktnJwgcjVHxSWo61Sy_FsQ20m8J3uRu5wurUCmJpwu4tBlB7-Ov-TG00) <br />
 [Coronavirus Face Shield v4.6 - 3D printed or laser cut by baughaw - Thingiverse](https://www.thingiverse.com/thing:4241798?fbclid=IwAR1Whw8yU7o1MEBpZjRwY9s2vHVvJynIT9011B8rbjab7bt40pRMubLz5P4) <br />
 
-**3dp _ masks**
+**3dp _ masks** <br />
 [Custom 3D printed Mask - WASP](https://www.3dwasp.com/en/3d-printed-mask-from-3d-scanning/) <br />
 [Chime Production - Yale Architecture](https://www.architecture.yale.edu/news/chime-production?fbclid=IwAR0cnaXbEVsCK_9NXhAl322hppbV80x1_Y4OY0TDkMSHYsvHnPPooinwJ3c) <br />
 [USCSW Filtrated Mask Participation Sheet ( Covid-19 Response ) - Google Docs](https://docs.google.com/document/d/1tvyMxYnkyuFIV4GF0stR4CHbT0cV2T4gk_gfjVRiLMg/edit?fbclid=IwAR1rhHNV2_zE-xr162cnWlDDucHCvnUER_OuU9qo_Kp7YkYVXYjmnqhF6ts) <br />
