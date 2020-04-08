@@ -30,6 +30,7 @@ a collection of open source PPEs projects
 [USCSW Filtrated Mask Participation Sheet ( Covid-19 Response ) - Google Docs](https://docs.google.com/document/d/1tvyMxYnkyuFIV4GF0stR4CHbT0cV2T4gk_gfjVRiLMg/edit?fbclid=IwAR1rhHNV2_zE-xr162cnWlDDucHCvnUER_OuU9qo_Kp7YkYVXYjmnqhF6ts) <br />
 
 **laser _ shields** <br />
+[FOLDED by Volumes, the super-fast face shield against Covid-19](https://medium.com/@wevolumes/folded-by-volumes-the-super-fast-face-shield-against-covid-19-51fcf69c10e) <br />
 [Makers Against CoronaCOVID-19 Medical Face Shield – UW Makerspace – UW–Madison](https://makersagainstcorona.org/) <br />
 [COVID-19 Medical Face Shield – UW Makerspace – UW–Madison](https://making.engr.wisc.edu/shield/?fbclid=IwAR3kVhmuXvrBzJIw47Wbmrje_044YpyQjH9NvZfQk-6VeBOXQtIwPOJdXVg) <br />
 [Designs for reusable face visor released in response to Covid-19 - Foster + Partners](https://www.fosterandpartners.com/news/archive/2020/04/foster-partners-shares-the-prototype-design-for-a-reusable-face-visor/)
