@@ -1,4 +1,8 @@
 # open_PPE
-a collection of open source PPEs projects 
+A collection of open source PPEs projects 
 
-all links are stored in LINKS.md
+All links are stored in LINKS.md
+
+-
+
+Big info provided by Alex Walzer 
