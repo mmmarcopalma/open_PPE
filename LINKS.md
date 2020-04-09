@@ -1,8 +1,8 @@
 # open_PPE
-a selection of reliable- and open- source digitally fabricatable PPE projects <br />
+a selection of reliable- and open- source digitally fabricatable PPE <br />
 
 **info / repos** <br />
-[Cose e iniziative contro covid19 - Un thread](https://www.facebook.com/ntotao/posts/10219347080780793?comment_id=10219350910716539&notif_id=1586419704025860&notif_t=comment_mention) / broad overview on COVID initiatives
+[Cose e iniziative contro covid19 - Un thread](https://www.facebook.com/ntotao/posts/10219347080780793?comment_id=10219350910716539&notif_id=1586419704025860&notif_t=comment_mention) / broad overview on COVID initiatives <br />
 [COVID-19 Response - NIH 3D Print Exchange](https://3dprint.nih.gov/collections/covid-19-response) / includes US gov approved designs <br />
 [Information about 3D-Printed Face Masks & Shields - Research - USC](https://research.usc.edu/information-about-3d-printed-face-masks/) <br /> / University of Southern California
 [MIT - Coronavirus - tracking · GitLab](https://gitlab.cba.mit.edu/pub/coronavirus/tracking) <br /> / MIT
