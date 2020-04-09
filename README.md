@@ -1,6 +1,6 @@
 # open_PPE
-A collection of open source PPEs projects 
+A selection of reliable- and open- source digitally fabricatable PPE
 
 All links are stored in LINKS.md
 
-Thanks to Alex Walzer, Stavroula Tsafou, Andrea Graziano for info and links
+Thanks to Alex Walzer, Stavroula Tsafou, Andrea Graziano, Antonio Gagliardi 
