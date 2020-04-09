@@ -1,15 +1,17 @@
 # open_PPE
-a collection of open source PPEs projects 
+a selection of reliable- and open- source digitally fabricatable PPE projects <br />
 
 **info / repos** <br />
+[Cose e iniziative contro covid19 - Un thread](https://www.facebook.com/ntotao/posts/10219347080780793?comment_id=10219350910716539&notif_id=1586419704025860&notif_t=comment_mention) / broad overview on COVID initiatives
 [COVID-19 Response - NIH 3D Print Exchange](https://3dprint.nih.gov/collections/covid-19-response) / includes US gov approved designs <br />
-[Information about 3D-Printed Face Masks & Shields - Research - USC](https://research.usc.edu/information-about-3d-printed-face-masks/) <br />
-[MIT - Coronavirus - tracking · GitLab](https://gitlab.cba.mit.edu/pub/coronavirus/tracking) <br />
+[Information about 3D-Printed Face Masks & Shields - Research - USC](https://research.usc.edu/information-about-3d-printed-face-masks/) <br /> / University of Southern California
+[MIT - Coronavirus - tracking · GitLab](https://gitlab.cba.mit.edu/pub/coronavirus/tracking) <br /> / MIT
 [Welder - Blueprints & files of engineering projects](https://www.welder.app/projects?tags=COVID-19&fbclid=IwAR1wv9bC9l_GMFSgs7lpEOt59cvVOX7u8lqTrQe5p-36wexmC1SulHwIAUA) <br />
 [Precious Plastic response to covid-19](https://preciousplastic.com/covid-19?fbclid=IwAR2SOU_uiFKf8lNrXTrbdhXUrKZQ_d2GHyphEcVmzBWQYVrB4IxyJv-YxFs) <br />
 [FabFoundation Covid-19 Response](https://fabfoundation.org/Covid19-Blast) <br />
 
 **re-use / decontamination** <br />
+[Programmable and low-cost ultraviolet room disinfection device](https://www.sciencedirect.com/science/article/pii/S2468067218300452) <br />
 [N95DECON - A scientific consortium for data-driven study of N95 FFR decontamination](https://www.n95decon.org/) <br />
 [Fix The Mask](https://www.fixthemask.com/?fbclid=IwAR1xJZYNWguqhehezmL46Wflp7XS5Vpoh9vSohpq_-J7iQMq_FAqU6vR8gM) <br />
 
