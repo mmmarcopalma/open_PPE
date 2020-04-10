@@ -4,8 +4,8 @@ a selection of reliable- and open- source digitally fabricatable PPE <br />
 **info / repos** <br />
 [Cose e iniziative contro covid19 - Un thread](https://www.facebook.com/ntotao/posts/10219347080780793?comment_id=10219350910716539&notif_id=1586419704025860&notif_t=comment_mention) / broad overview on COVID initiatives <br />
 [COVID-19 Response - NIH 3D Print Exchange](https://3dprint.nih.gov/collections/covid-19-response) / includes US gov approved designs <br />
-[Information about 3D-Printed Face Masks & Shields - Research - USC](https://research.usc.edu/information-about-3d-printed-face-masks/) <br /> / University of Southern California
-[MIT - Coronavirus - tracking · GitLab](https://gitlab.cba.mit.edu/pub/coronavirus/tracking) <br /> / MIT
+[Information about 3D-Printed Face Masks & Shields - Research - USC](https://research.usc.edu/information-about-3d-printed-face-masks/)  / University of Southern California <br />
+[MIT - Coronavirus - tracking · GitLab](https://gitlab.cba.mit.edu/pub/coronavirus/tracking) / MIT  <br />
 [Welder - Blueprints & files of engineering projects](https://www.welder.app/projects?tags=COVID-19&fbclid=IwAR1wv9bC9l_GMFSgs7lpEOt59cvVOX7u8lqTrQe5p-36wexmC1SulHwIAUA) <br />
 [Precious Plastic response to covid-19](https://preciousplastic.com/covid-19?fbclid=IwAR2SOU_uiFKf8lNrXTrbdhXUrKZQ_d2GHyphEcVmzBWQYVrB4IxyJv-YxFs) <br />
 [FabFoundation Covid-19 Response](https://fabfoundation.org/Covid19-Blast) <br />
