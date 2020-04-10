@@ -40,6 +40,9 @@ a selection of reliable- and open- source digitally fabricatable PPE <br />
 [Open Source Face Shield](https://www.notion.so/Open-Source-Face-Shield-c7ebd84f2dbe4be5ab0974c85c49d9ff) <br />
 [Face Shield Acrylic - Google Drive](https://drive.google.com/drive/folders/1RmbCbBoOyIvcxbLGkhum13ZqK6MtHdRz?fbclid=IwAR37BqOswDLMuekXjPRxNjhafUYMm8S4fGZFIQoIH-uUHDpMxXxwRePB9g4) <br />
 
+**handmade _ shields** <br />
+[Face Shield by Folding - ICD](https://www.icd.uni-stuttgart.de/news/Face-shield-by-folding/?fbclid=IwAR2csZtcoN1T5uI_bXNw7Aj_18ndfpInbbz21y3qNPPMrqe_a--ih_tEPB0) / no need for machines
+
 **handmade _ masks** <br />
 [DIY Face Mask - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/diy-face-mask-1?fbclid=IwAR2v01_CevhvCn-WTCh4244j2XUbxjQ4LPIIqNNEYiJi65NIenOKyhPW9N4) <br />
 [Calling all makers- Here's a 1-page PDF facemask pattern](https://freesewing.org/blog/facemask-frenzy/?fbclid=IwAR0d_0GfkBt2HAnO_wvaX7AeTna7lQQ6cYrPrlOeKp3ZFOJGu2O6IZq8H50) <br />
