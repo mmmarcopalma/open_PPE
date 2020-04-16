@@ -35,7 +35,7 @@ a selection of reliable- and open- source digitally fabricatable PPE <br />
 [FOLDED by Volumes, the super-fast face shield against Covid-19](https://medium.com/@wevolumes/folded-by-volumes-the-super-fast-face-shield-against-covid-19-51fcf69c10e) <br />
 [Makers Against CoronaCOVID-19 Medical Face Shield – UW Makerspace – UW–Madison](https://makersagainstcorona.org/) <br />
 [COVID-19 Medical Face Shield – UW Makerspace – UW–Madison](https://making.engr.wisc.edu/shield/?fbclid=IwAR3kVhmuXvrBzJIw47Wbmrje_044YpyQjH9NvZfQk-6VeBOXQtIwPOJdXVg) <br />
-[Designs for reusable face visor released in response to Covid-19 - Foster + Partners](https://www.fosterandpartners.com/news/archive/2020/04/foster-partners-shares-the-prototype-design-for-a-reusable-face-visor/)
+[Designs for reusable face visor released in response to Covid-19 - Foster + Partners](https://www.fosterandpartners.com/news/archive/2020/04/foster-partners-shares-the-prototype-design-for-a-reusable-face-visor/) <br />
 [HappyShield](https://happyshield.github.io/) <br />
 [Open Source Face Shield](https://www.notion.so/Open-Source-Face-Shield-c7ebd84f2dbe4be5ab0974c85c49d9ff) <br />
 [Face Shield Acrylic - Google Drive](https://drive.google.com/drive/folders/1RmbCbBoOyIvcxbLGkhum13ZqK6MtHdRz?fbclid=IwAR37BqOswDLMuekXjPRxNjhafUYMm8S4fGZFIQoIH-uUHDpMxXxwRePB9g4) <br />
